@@ -1,0 +1,9 @@
+A hex editor I made in gymnasium for a university course teaching python and basic programming.
+The hex editor uses tkinter, so on arch based distributions you can:
+  sudo pacman -S tk
+  chmod u+x GHE.py
+  
+and it should run.
+
+The hex editor can display raw hex data as well as an ascii representation of that data.
+You can also edit data in files and thus patch binaries in your liking. 
